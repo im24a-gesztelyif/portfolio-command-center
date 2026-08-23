@@ -16,7 +16,7 @@ export const commsChannels: CommsChannel[] = [
   {
     label: 'E-mail',
     value: 'flavio.gesztelyi@gmail.com',
-    href: 'flavio.gesztelyi@gmail.com',
+    href: 'mailto:flavio.gesztelyi@gmail.com',
     note: 'My E-mail',
   },
 ]
