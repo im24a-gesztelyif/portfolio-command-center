@@ -36,7 +36,7 @@ export const missions: Mission[] = [
     codename: 'Guess the Word',
     title: 'Real-time multiplayer word game',
     classification: 'Personal Project',
-    priority: 'High',
+    priority: 'Standard',
     markerType: 'Relay',
     objective:
       'Build a browser game in which players join rooms, receive progressive hints, submit guesses, and follow a synchronized scoreboard.',
@@ -81,7 +81,7 @@ export const missions: Mission[] = [
       'Preventing concurrent inputs from corrupting shared state.',
     ],
     outcome:
-      'A focused Java learning project covering Spring services, MVC, WebSockets, and synchronized state.',
+      'A focused Java learning project covering Spring services, WebSockets, and synchronized state.',
     status: 'Completed',
     repositoryUrl: 'https://github.com/im24a-gesztelyif/SmashAMeerkat',
     surveillanceTarget: { id: 'tgt-meerkat', x: 44, y: 63, radius: 11, markerType: 'Node', label: 'MEERKAT' },
@@ -138,7 +138,7 @@ export const missions: Mission[] = [
     ],
     outcome:
       'A practical school exercise for strengthening React fundamentals and external API integration.',
-    status: 'In Progress',
+    status: 'Completed',
     repositoryUrl: 'https://github.com/im24a-gesztelyif/react-shop-demo',
     surveillanceTarget: { id: 'tgt-shop', x: 35, y: 73, radius: 10, markerType: 'Node', label: 'SHOP' },
   },
@@ -148,7 +148,7 @@ export const missions: Mission[] = [
     codename: 'Task Planner',
     title: 'Authenticated Flask and MySQL planner',
     classification: 'School Project',
-    priority: 'High',
+    priority: 'Standard',
     markerType: 'Relay',
     objective:
       'Learn backend routing, relational data access, forms, authentication, and CRUD operations through a task-management application.',
