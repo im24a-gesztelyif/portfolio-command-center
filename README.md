@@ -1,6 +1,6 @@
 # Portfolio Command Center
 
-An interactive, aviation-inspired portfolio for **Flavio Gesztelyi**, built to present real software projects through a command-center interface.
+An interactive, military-inspired portfolio, built to present real software projects through a command-center interface.
 
 [![Live portfolio](https://img.shields.io/badge/Live_portfolio-Open-39ff88?style=for-the-badge)](https://portfolio-fgn.vercel.app/)
 [![CI](https://github.com/im24a-gesztelyif/portfolio-command-center/actions/workflows/ci.yml/badge.svg)](https://github.com/im24a-gesztelyif/portfolio-command-center/actions/workflows/ci.yml)
@@ -15,10 +15,6 @@ An interactive, aviation-inspired portfolio for **Flavio Gesztelyi**, built to p
 - Capability overview based on technologies used in the linked repositories
 - Responsive layouts, guided tutorial, boot sequence, and motion effects
 - Direct links to every project's source repository
-
-## Featured projects
-
-The portfolio presents FlavFlix, Guess the Word, Smash A Meerkat, Florenz, React Shop Demo, and Flask Task Planner. Descriptions intentionally avoid invented clients, metrics, or production outcomes.
 
 ## Technology
 
@@ -57,12 +53,4 @@ The same checks run on GitHub Actions for pull requests and pushes to `main`.
 
 ## Project context
 
-This is a personal learning portfolio. Its visual language is intentionally inspired by aviation and command-center interfaces; the projects and technical claims are grounded in the linked source repositories.
-
-## Limitations
-
-The interface is a client-side portfolio rather than an operational monitoring system. All project information is maintained manually and should be reviewed whenever a featured repository changes.
-
-## Learning outcomes
-
-The project strengthened my work with typed React data models, component composition, responsive motion, state management, and presenting technical work clearly without unsupported claims.
+This is a personal learning portfolio. Its visual language is intentionally inspired by military command-center interfaces; the projects and technical claims are grounded in the linked source repositories.
