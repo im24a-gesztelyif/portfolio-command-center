@@ -13,4 +13,10 @@ export const commsChannels: CommsChannel[] = [
     href: 'https://portfolio-fgn.vercel.app/',
     note: 'Interactive overview of selected software projects and technical interests.',
   },
+  {
+    label: 'E-mail',
+    value: 'flavio.gesztelyi@gmail.com',
+    href: 'flavio.gesztelyi@gmail.com',
+    note: 'My E-mail',
+  },
 ]
