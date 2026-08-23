@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+coverage/
+.vite/
+
+# Environment files
+.env
+.env.*
+!.env.example
+*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Cache
+.cache/
+.turbo/
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS / system files
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local design references and generated visual checks
+inspiration/
+verify-*.png
+todo/
