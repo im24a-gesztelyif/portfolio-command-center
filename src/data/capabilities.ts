@@ -6,8 +6,7 @@ export const capabilityClusters: CapabilityCluster[] = [
     title: 'Languages',
     note: 'Languages used across personal and school projects.',
     entries: [
-      { label: 'JavaScript', state: 'Primary', tags: ['Browser', 'Node.js', 'React'] },
-      { label: 'TypeScript', state: 'Working', tags: ['React', 'Typed UI'] },
+      { label: 'JavaScript', state: 'Working', tags: ['Browser', 'Node.js', 'React'] },
       { label: 'Java', state: 'Working', tags: ['Spring Boot', 'OOP'] },
       { label: 'Python', state: 'Working', tags: ['Flask', 'OOP'] },
       { label: 'C#', state: 'Evaluating', tags: ['.NET', 'Learning'] },
@@ -30,7 +29,7 @@ export const capabilityClusters: CapabilityCluster[] = [
     title: 'Backend and Data',
     note: 'APIs, authentication, persistence, and real-time communication.',
     entries: [
-      { label: 'Node.js / Express', state: 'Operational', tags: ['HTTP', 'Socket.IO'] },
+      { label: 'Node.js / Express', state: 'Working', tags: ['HTTP', 'Socket.IO'] },
       { label: 'Spring Boot', state: 'Working', tags: ['MVC', 'WebSocket'] },
       { label: 'Flask', state: 'Working', tags: ['Blueprints', 'WTForms'] },
       { label: 'MySQL / Supabase', state: 'Working', tags: ['SQL', 'Authentication'] },
@@ -43,7 +42,7 @@ export const capabilityClusters: CapabilityCluster[] = [
     entries: [
       { label: 'Git / GitHub', state: 'Operational', tags: ['Branches', 'Pull requests'] },
       { label: 'GitHub Actions', state: 'Working', tags: ['Lint', 'Build', 'Test'] },
-      { label: 'Vercel', state: 'Working', tags: ['Web deployment', 'Preview'] },
+      { label: 'Vercel', state: 'Operational', tags: ['Web deployment', 'Preview'] },
       { label: 'REST APIs', state: 'Operational', tags: ['TMDB', 'DummyJSON'] },
     ],
   },
